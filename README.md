@@ -1,5 +1,13 @@
 # web JTphotograph
 
+### fix 4
+
+-修正手機版，照片下文字跑版的問題
+
+-重新排列posts的順序
+
+-給posts分類
+
 
 ### fix 3
 
