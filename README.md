@@ -1,5 +1,10 @@
 # web JTphotograph
 
+### fix 6
+
+-新增留言區（使用google表單串接）
+
+
 ### fix 5
 
 -修正文字
