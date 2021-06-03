@@ -1,5 +1,11 @@
 # web JTphotograph
 
+
+### fix 7
+
+-修改路徑（Comments按鈕是導向forms.html，但後來改成comments.html，忘記改程式碼）
+
+
 ### fix 6
 
 -新增留言區（使用google表單串接）
