@@ -1,6 +1,10 @@
 # web JTphotograph
 
 
+### fix 9.1
+
+-把留言區改成一般樣式，不再使用Card
+
 ### fix 9
 
 -修正留言區跑版
