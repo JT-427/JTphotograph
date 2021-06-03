@@ -1,5 +1,9 @@
 # web JTphotograph
 
+### fix 9.2
+
+-留言區的每個區塊改為必填
+
 
 ### fix 9.1
 
