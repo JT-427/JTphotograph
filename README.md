@@ -1,5 +1,11 @@
 # web JTphotograph
 
+### fix 8
+
+-把外部連結到YouTube改成將影片內嵌在網頁上
+
+-調整縮排
+
 
 ### fix 7
 
