@@ -1,5 +1,10 @@
 # web JTphotograph
 
+
+### fix 9.3 
+-private email account
+
+
 ### fix 9.2
 
 -留言區的每個區塊改為必填
